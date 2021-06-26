@@ -24,5 +24,10 @@ namespace test
         {
             InitializeComponent();
         }
+
+        public void TestGit()
+        {
+            MessageBox.Show("Test OK");
+        }
     }
 }
